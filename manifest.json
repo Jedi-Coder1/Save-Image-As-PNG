@@ -10,6 +10,6 @@
    "description": "Let's you save any image as .png",
    "manifest_version": 3,
    "name": "Save Image As PNG",
-   "permissions": [],
+   "permissions": [ "downloads" ],
    "version": "1.0"
 }
