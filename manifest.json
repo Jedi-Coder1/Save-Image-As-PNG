@@ -1,0 +1,15 @@
+{
+   "action": {
+      "default_icon": "assets/icon.png",
+      "default_title": "Save Image As PNG"
+   },
+   "background": {
+      "service_worker": "SaveAsPNG.js"
+   },
+   "author": "Jedi-Coder1",
+   "description": "Let's you save any image as .png",
+   "manifest_version": 3,
+   "name": "Save Image As PNG",
+   "permissions": [],
+   "version": "1.0"
+}
